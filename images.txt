@@ -2,7 +2,6 @@ nginx
 wurstmeister/zookeeper:latest
 zenko/kafka-manager:latest
 influxdb:1.8
-apacherocketmq/rocketmq:4.8.0-alpine
 styletang/rocketmq-console-ng:latest
 wurstmeister/kafka:2.13-2.8.1
 emqx/emqx:5.3.2
