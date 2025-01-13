@@ -9,6 +9,7 @@ nacos/nacos-server:2.0.4-slim
 minio/minio:latest
 seataio/seata-server:1.5.1
 livingobjects/jre8:latest
+rabbitmq:3.8.16-management
 #支持私库
 opengrok/docker
 #支持指定架构
