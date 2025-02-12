@@ -10,6 +10,7 @@ minio/minio:latest
 seataio/seata-server:1.5.1
 livingobjects/jre8:latest
 rabbitmq:3.8.16-management
+ragflow:nightly
 #支持私库
 opengrok/docker
 #支持指定架构
