@@ -12,6 +12,7 @@ livingobjects/jre8:latest
 rabbitmq:3.8.16-management
 infiniflow/ragflow:nightly
 infiniflow/ragflow:nightly-slim
+tailscale/tailscale:latest
 #支持私库
 opengrok/docker
 #支持指定架构
