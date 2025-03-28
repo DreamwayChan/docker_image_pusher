@@ -20,6 +20,7 @@ ubuntu/squid:latest
 semitechnologies/weaviate:1.19.0
 langgenius/dify-web:1.1.3
 langgenius/dify-api:1.1.3
+langgenius/dify-plugin-daemon:latest
 #支持私库
 opengrok/docker
 #支持指定架构
