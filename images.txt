@@ -1,4 +1,3 @@
-nginx
 wurstmeister/zookeeper:latest
 zenko/kafka-manager:latest
 influxdb:1.8
@@ -13,6 +12,14 @@ rabbitmq:3.8.16-management
 infiniflow/ragflow:nightly
 infiniflow/ragflow:nightly-slim
 tailscale/tailscale:latest
+postgres:latest
+nginx:latest 
+redis:6-alpine
+langgenius/dify-sandbox:latest
+ubuntu/squid:latest
+semitechnologies/weaviate:1.19.0
+langgenius/dify-web:1.1.3
+langgenius/dify-api:1.1.3
 #支持私库
 opengrok/docker
 #支持指定架构
